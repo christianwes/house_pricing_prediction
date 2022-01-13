@@ -1,2 +1,4 @@
-# House pricing prediction - Machine Learning 
-In this repository you will a find a Jupyter Notebook using different Pyhton libraries for making an analisys, data exploration and predictive models for house prices in the City of Buenos Aires, Argentina. The main objective is to compare 3 ML models such as Random Forest, KNN and XGBoost in order suggest the better predictor for house prices. 
+# Prediccion de precios de propiedades - Machine Learning 
+En este repositorio encontrará un notebook desarrollado en Python utilizando diferentes librerias para realizar un analisis exploratorio de los datos y aplicando modelos de prediccion para determinar el precio de las propiedades en la ciudad de Buenos Aires,Argentina El objetivo es comparar los resultados obtenidos con 3 modelos de ML distintos para determinar cual de ellos se recomienda utilizar en base a los resultados obtenidos: Random Forest, KNN y XGBoost.
+
+Los valores se encuentran expresados en dolares estadounidenses.
